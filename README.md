@@ -1,1 +1,1 @@
-"# GlobalGeopotentialModels" 
+# GlobalGeopotentialModels
