@@ -1,1 +1,1 @@
-# GlobalGeopotentialModels
+# Global Geopotential Models
